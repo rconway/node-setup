@@ -1,0 +1,5 @@
+[servers]
+ogc01 ansible_host=ogc01.rconway.co.uk
+
+[servers:vars]
+ansible_python_interpreter=/usr/bin/python3
